@@ -1,5 +1,5 @@
 expense tracker 
-A sleek and responsive Expense Tracker built with React.js that allows users to log in, manage daily expenses, and visualize spending using real-time charts — all on a clean, modern UI.
+A sleek and responsive Expense Tracker built with React.js that allows users to log in, manage daily expenses, and visualize spending using real-time charts on nextleap — all on a clean, modern UI.
 
 🚀 Features
 ✅ Simple login system with name input
